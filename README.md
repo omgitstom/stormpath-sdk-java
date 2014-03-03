@@ -21,20 +21,13 @@ This project requires Maven 3.0.3 to build.  Run the following:
 `> mvn install`
 
 ### Contributing 
-<<<<<<< HEAD
 
 You can make your own contributions by forking the <code>development</code> branch, making your changes, and issuing pull-requests on the <code>development</code> branch.
 
 We regularly maintain our GitHub repostiory, and are quick about reviewing pull requests and accepting changes!
 
-=======
-
-You can make your own contributions by forking the <code>development</code> branch, making your changes, and issuing pull-requests on the <code>development</code> branch.
-
-We regularly maintain our GitHub repostiory, and are quick about reviewing pull requests and accepting changes!
-
->>>>>>> 4b879e47e8be9f84640df3d913b0bc88e9780780
 ### Copyright ###
+
 Copyright &copy; 2013 Stormpath, Inc. and contributors.
 
 This project is open-source via the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
